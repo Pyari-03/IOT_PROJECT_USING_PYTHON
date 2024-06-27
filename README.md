@@ -1,7 +1,7 @@
 # IOT_PROJECT_USING_PYTHON
 Smart Agriculture: Building an Efficient IoT Soil  Moisture Monitoring System with Raspberry Pi  Pico W &amp; Blynk
 
-ABSTRACT:-
+Abstract:-
 
 As the global demand for sustainable and efficient agriculture continues to rise, the 
 integration of advanced technologies becomes imperative. This project introduces a 
